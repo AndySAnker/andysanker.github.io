@@ -4,7 +4,6 @@ collection: teaching
 type: "BSc students"
 permalink: /teaching/Bachelor-supervision
 venue: "University of Copenhagen, Department of Chemistry"
-date: 2021
 location: "Copenhagen, Denmark"
 ---
 
