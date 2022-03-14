@@ -1,14 +1,12 @@
 ---
-title: "Bachelor supervision"
+title: "Bachelor theses co-supervisor"
 collection: teaching
 type: "BSc students"
 permalink: /teaching/Bachelor-supervision
 venue: "University of Copenhagen, Department of Chemistry"
-#date: 20212022
+date: 2021
 location: "Copenhagen, Denmark"
 ---
-
-**Co-supervisor**
 
 * Marcus N. Weng (2021) - Using gradient boosting decision tree to classify mono-metallic nanoparticles from pair distribution function data. 
 ======
