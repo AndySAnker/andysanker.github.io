@@ -1,8 +1,13 @@
+---
 title: "Master theses co-supervisor"
 collection: teaching
 type: "MSc students"
 permalink: /teaching/Master-supervision
 venue: "University of Copenhagen, Department of Chemistry"
+date: 2022-01-01
+---
+
+Co-supervised 2 MSc theses - both in machine learning for structure solution from pair distribution function data.
 
 * Ulrik Friis-Jensen (2021-2022) - Using generative models for structure solution from pair distribution function data. 
 
