@@ -1,13 +1,13 @@
 ---
-title: "Class teaching"
+title: "Classroom teacher"
 collection: teaching
-type: "Teaching"
+type: "BSc students"
 permalink: /teaching/Teaching
 venue: "University of Copenhagen, Department of Chemistry"
 date: 2020-01-01
 ---
 
-Teaching assistant in Chemistry courses at Department of Chemistry: 
+Teaching assistant in Chemistry courses at Department of Chemistry:
 
 * **Applied Spectroscopy**
 
@@ -16,7 +16,7 @@ Teaching assistant in Chemistry courses at Department of Chemistry:
 * **General Chemistry for Life Sciences**
 
 
-Other teaching experiences
+Other teaching experiences:
 
 * 4 days teaching of gymnasium students (2 times) 
 
