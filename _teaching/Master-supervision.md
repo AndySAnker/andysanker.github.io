@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc students"
 permalink: /teaching/Master-supervision
 venue: "University of Copenhagen, Department of Chemistry"
-date: 2021-2022
+date: 2021/2022
 location: "Copenhagen, Denmark"
 ---
 
