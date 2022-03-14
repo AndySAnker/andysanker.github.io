@@ -1,3 +1,6 @@
+**Paper in a danish popular scientific journal**
+https://aktuelnaturvidenskab.dk/fileadmin/Aktuel_Naturvidenskab/nr-1/AN1-2021-materialeudvikling.pdf
+
 ---
 title: "Master theses co-supervisor"
 collection: teaching
