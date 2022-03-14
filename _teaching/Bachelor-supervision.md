@@ -4,7 +4,7 @@ collection: teaching
 type: "BSc students"
 permalink: /teaching/Bachelor-supervision
 venue: "University of Copenhagen, Department of Chemistry"
-data: 2021-01-01
+date: 2021-01-01
 ---
 
 Co-supervised 4 bachelor theses projects - 3 using machine learning to analyse scattering data and 1 using scattering to understand the formation process of nanomaterials.
