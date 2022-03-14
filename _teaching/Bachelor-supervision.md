@@ -2,7 +2,7 @@
 title: "Bachelor supervision"
 collection: teaching
 type: "BSc students"
-permalink: /teaching/Bachelor supervision
+permalink: /teaching/Bachelor-supervision
 #venue: "University 1, Department"
 date: 2021-2022
 #location: "City, Country"

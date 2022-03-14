@@ -2,7 +2,7 @@
 title: "Master supervision"
 collection: teaching
 type: "MSc students"
-permalink: /teaching/Master supervision
+permalink: /teaching/Master-supervision
 #venue: "University 1, Department"
 date: 2021-2022
 #location: "City, Country"
