@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Andy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student in the Nanostructure group UCPH, Department of Chemistry, University of Copenhagen.
+                      Main interest is to use machine learning to analyse chemical data."
+  location         : "Copenhagen"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uQY14MjfYsIC&hl=da&oi=ao"
-  email            :
+  email            : "andy@chem.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "andy-sode-anker-a47477121"
   orcid            : "http://orcid.org/0000-0002-7403-6642"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/SodeAndy"
+  twitter          : "SodeAndy"
   vine             :
   weibo            :
   xing             :
