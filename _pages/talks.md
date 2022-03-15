@@ -11,11 +11,11 @@ redirect_from:
 
 Talks
 ======
-* Danscatt Annual Meeting (2019)
-	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS ([slides](../files/bla.pdf))
-
 * SMART Lighthouse PhD Summer School (2021)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
+
+* Danscatt Annual Meeting (2019)
+	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS
 
 * Nanoscience Symposium (2018)
 	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS
@@ -37,7 +37,7 @@ Posters chosen
 
 Posters
 ======
-* (MaRDA Annual Meeting (2022) (files/MaRDA_poster.pdf))
+* ([MaRDA Annual Meeting (2022)](files/MaRDA_poster.pdf))
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
 * Harwell NextGen ‘Celebration of Science’ Poster Competition (2021)
