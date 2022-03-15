@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2018-: PhD Student
-  * Department of Chemistry, University of Copenhagen
+  * [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
   * Duties included: 
     * Research
     * Scientific communication
@@ -28,12 +28,12 @@ Work experience
   * Supervisor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
 
 * Sep. 2021 - Mar. 2022: Visiting PhD Student - Rutherford Appleton Laboratory
-  * [Scientific Machine Learning group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx), Rutherford Appleton Laboratory, England
+  * [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx), Rutherford Appleton Laboratory, England
   * Duties included: 
     * Research
     * Scientific communication
-    * Creating and maintaining software pibelines
-  * Supervisor: [Kirsten Tobias Butler (Senior Scientist)](https://www.scd.stfc.ac.uk/Pages/Keith-Butler.aspx)
+    * Creating and maintaining software pibeline
+  * Supervisor: [Keith Tobias Butler (Senior Scientist)](https://www.scd.stfc.ac.uk/Pages/Keith-Butler.aspx)
 
 * 2016-2018: Student Assistent
   * NanoScience-Center, University of Copenhagen
@@ -75,22 +75,25 @@ Prizes and Funding
 [Supervision & Teaching](https://andynano.github.io/teaching/)
 ======
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+<!--
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+-->
   
 
