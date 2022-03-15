@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2018
+* M.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-: PhD Student
+  * Department of Chemistry, University of Copenhagen
+  * Duties included: 
+    * Research
+    * Scientific communication
+    * Teaching
+    * Supervising
+    * Creating and maintaining software pibelines
+    * Co-responsible for setting up and maintaining computer resource
+  * Supervisor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: Student Assistent
+  * NanoScience-Center, University of Copenhagen
+  * Duties included: 
+    * Helping with the daily operation of the Nanoscience Center, which includes tasks as:
+      * Maintenance and development of a professional and easy website
+      * Communication with researchers
+      * Coordination of various events
+      * Presentations to middle school and others with interest in Nanoscience
+      * Ad Hoc tasks
+  * Supervisor: [Tine Buskjær Nielsen (Center Coordinator)](https://nano.ku.dk/english/contact/)
   
-Skills
+* 2016-2018: Student Assistent
+  * Cirkus Naturligvis
+  * Duties included: 
+    * Education of primary school students in nanoscience, physics and chemistry.
+  * Supervisor: [Torben Ingerslev Roug (Head of school Cirkus Naturligvis)](https://www.linkedin.com/in/torbeningerslevroug/?originalSubdomain=dk)
+
+
+Prizes and Funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) 
+* Best Bachelor Thesis 2018 at the Institute of Chemistry, UCPH
+* 20.000 DKK Research Grant from Siemens Foundation
+* ADD 2019 - Poster Gold Medal
+* ISIS student meeting 2021 – Poster Gold Medal
+* Travel Funding – The Danish Chemical Society
+• Inorganic Graduate Student Seminar 2019 – Poster Gold Medal
 
 Publications
 ======
@@ -54,6 +73,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
