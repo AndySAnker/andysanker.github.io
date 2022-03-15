@@ -23,7 +23,7 @@ Talks
 
 Posters chosen
 ======
-* [MLG - 16th International Workshop on Mining and Learning with Graphs (2020) (Paper published at workshop)](https://chemrxiv.org/engage/chemrxiv/article-details/60c74dd1842e6514f2db3527)
+* MLG - 16th International Workshop on Mining and Learning with Graphs (2020) (Paper published at workshop)[link](https://chemrxiv.org/engage/chemrxiv/article-details/60c74dd1842e6514f2db3527)
 	* Characterising the atomic structure of mono-metallic nanoparticles from x-ray scattering data using conditional generative models
 
 * [ADD - 16th Analysis of Diffraction Data in Real Space (2019) (Poster gold medal)](../files/Bismuth.pdf)
