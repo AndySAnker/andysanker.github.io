@@ -12,7 +12,7 @@ redirect_from:
 Talks
 ======
 * Danscatt Annual Meeting (2019)
-	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS ([slides](files/bla.pdf))
+	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS ([slides](../files/bla.pdf))
 
 * SMART Lighthouse PhD Summer School (2021)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
