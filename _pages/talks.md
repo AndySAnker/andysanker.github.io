@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and posters"
-permalink: /Talks-and-posters/
+permalink: /talks/
 author_profile: true
 redirect_from:
   - /resume
