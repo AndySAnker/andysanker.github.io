@@ -23,16 +23,16 @@ Talks
 
 Posters chosen
 ======
-* MLG - 16th International Workshop on Mining and Learning with Graphs (2020) (Paper published at workshop)
+* ([MLG - 16th International Workshop on Mining and Learning with Graphs (2020) (Paper published at workshop)](https://chemrxiv.org/engage/chemrxiv/article-details/60c74dd1842e6514f2db3527))
 	* Characterising the atomic structure of mono-metallic nanoparticles from x-ray scattering data using conditional generative models
 
-* ADD - 16th Analysis of Diffraction Data in Real Space (2019) (Poster gold medal)
+* ([ADD - 16th Analysis of Diffraction Data in Real Space (2019) (Poster gold medal)](files/Bismuth.pdf))
 	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS
 
-* EMRS – European Materials Research Society (2019)
+* ([EMRS – European Materials Research Society (2019)](files/Bismuth.pdf))
 	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS
 
-* ISIS Student Meeting (2021) (Poster gold medal)
+* ([ISIS Student Meeting (2021) (Poster gold medal)](files/GAN_Poster.pdf))
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
 Posters
@@ -40,19 +40,19 @@ Posters
 * ([MaRDA Annual Meeting (2022)](files/MaRDA_poster.pdf))
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
-* Harwell NextGen ‘Celebration of Science’ Poster Competition (2021)
+* ([Harwell NextGen ‘Celebration of Science’ Poster Competition (2021)](files/GAN_Poster.pdf))
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
-* CHEAC Lighthouse Retreat (2021)
+* ([CHEAC Lighthouse Retreat (2021)](files/poster_CHEAC2021.pdf))
 	* Automated Characterization of the Atomic Structure of Mono-Metallic Nanoparticles from X-ray Scattering Data using Generative Models
 
-* PhD Seminar - Department of Chemistry, University of Copenhagen (2021)
+* ([PhD Seminar - Department of Chemistry, University of Copenhagen (2021)](files/Bismuth.pdf))
 	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS
 
-* Innovative Inelastic Neutron Scattering Workshop (2021)
+* ([Innovative Inelastic Neutron Scattering Workshop (2021)](files/GAN_Poster.pdf))
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
-* MAX IV User Meeting (2021)
+* ([MAX IV User Meeting (2021)](files/ML-MotEx_Poster_Compressed.pdf))
 	* Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures using Interpretable Machine Learning
 
 * Danscatt Annual Meeting (2017, 2018 & 2020)
