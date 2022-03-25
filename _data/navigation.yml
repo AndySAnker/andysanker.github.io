@@ -4,7 +4,7 @@ main:
     url: "https://scholar.google.com/citations?user=uQY14MjfYsIC&hl=da&oi=ao" #/publications/
 
   - title: "Code"
-    url: "https://github.com/AndyNano" #/talks/    
+    url: "https://github.com/AndySAnker" #/talks/    
 
   - title: "Talks & Posters"
     url: /talks/    
