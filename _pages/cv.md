@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2018 (Grade avg: 10.2)
-  * [Bachelor Thesis](../files/BachelorThesis.pdf): Characterization of the formation of magic-sized [Bi<sub>38</sub>O<sub>45</sub>] clusters by PDF and SAXS
 * M.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2021 (Grade avg: 11.5)
   * [Master Thesis](../files/MasterThesis.pdf): Pushing the boundaries of Nanocluster Modelling from Pair Distribution Function and Small-Angle X-ray Scattering Analysis
+* B.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2018 (Grade avg: 10.2)
+  * [Bachelor Thesis](../files/BachelorThesis.pdf): Characterization of the formation of magic-sized [Bi<sub>38</sub>O<sub>45</sub>] clusters by PDF and SAXS
 
 Work experience
 ======
