@@ -40,6 +40,12 @@ Posters chosen
 
 Posters
 ======
+* [Epdic17 (2022)](../files/Poster_DeepStruc.pdf)
+	* DeepStruc: Towards structure solution from pair distribution function data using deep generative models
+
+* [Conference on High Entropy Alloy Electrocatalysis (2022)](../files/Poster_DeepStruc.pdf)
+	* DeepStruc: Towards structure solution from pair distribution function data using deep generative models
+
 * [MaRDA Annual Meeting (2022)](../files/MaRDA_poster.pdf)
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
