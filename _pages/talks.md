@@ -38,8 +38,14 @@ Posters chosen
 * [ISIS Student Meeting (2021) (Poster gold medal)](../files/GAN_Poster.pdf)
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
+* [CHEAC Lighthouse Retreat (2021) (Poster medal) ](../files/poster_CHEAC2021.pdf)
+	* Automated Characterization of the Atomic Structure of Mono-Metallic Nanoparticles from X-ray Scattering Data using Generative Models
+
 Posters
 ======
+* [Summer school on human-in-the-loop and learning with limited labels (2022)](../files/Poster_DeepStruc.pdf)
+	* DeepStruc: Towards structure solution from pair distribution function data using deep generative models
+
 * [Epdic17 (2022)](../files/Poster_DeepStruc.pdf)
 	* DeepStruc: Towards structure solution from pair distribution function data using deep generative models
 
@@ -52,8 +58,6 @@ Posters
 * [Harwell NextGen ‘Celebration of Science’ Poster Competition (2021)](../files/GAN_Poster.pdf)
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
-* [CHEAC Lighthouse Retreat (2021)](../files/poster_CHEAC2021.pdf)
-	* Automated Characterization of the Atomic Structure of Mono-Metallic Nanoparticles from X-ray Scattering Data using Generative Models
 
 * [PhD Seminar - Department of Chemistry, University of Copenhagen (2021)](../files/Bismuth.pdf)
 	* Formation mechanism of metal oxido clusters: A complex modelling study using PDF and SAXS
