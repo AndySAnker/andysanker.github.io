@@ -57,7 +57,7 @@ Work experience
 
 Prizes and Funding
 ======
-* Winning team in the Danish Fungi Challenge 2022 at Summer school on human-in-the-loop and learning with limited labels 
+* Winning team in the [Danish Fungi Challenge 2022](https://human-in-the-loop.compute.dtu.dk/challenge/) at Summer school on human-in-the-loop and learning with limited labels 
   * In the challenge we used a mix of high entropy- and density sampling to achieve high accuracy on classifying fungi images into 183 classes
 * 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) 
 * Best Bachelor Thesis 2018 at the Department of Chemistry, University of Copenhagen
