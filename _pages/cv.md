@@ -55,12 +55,18 @@ Prizes and Funding
 ======
 
 [Code](https://github.com/AndySAnker)
+Private repositories
+======
+* POMFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
+  * POMFinder predict a polyoxometalate structure from a pair distribution function dataset.
+
+* CIFFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
+  * CIFFinder predict a crystal structure from a pair distribution function dataset.
+
+[Talks & Posters](https://andySAnker.github.io/talks/)
 ======
 
-[Talks & Posters](https://andynano.github.io/talks/)
-======
-
-[Supervision & Teaching](https://andynano.github.io/teaching/)
+[Supervision & Teaching](https://andySAnker.github.io/teaching/)
 ======
 
 <!--
