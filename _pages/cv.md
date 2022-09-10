@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * 2018-: PhD Student - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
-    * Research - Scientific communication
-    * Teaching - Supervising
+    * Research and scientific communication
+    * Teaching and supervising
     * Creating and maintaining software pibelines - Co-responsible for setting up and maintaining computer resource
   * Supervisor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
 
@@ -60,10 +60,10 @@ Prizes and Funding
 Private repositories
 ======
 * POMFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
-  * POMFinder predict a polyoxometalate structure from a pair distribution function dataset.
+  * POMFinder predicts a polyoxometalate structure from a pair distribution function dataset.
 
 * CIFFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
-  * CIFFinder predict a crystal structure from a pair distribution function dataset.
+  * CIFFinder predicts a crystal structure from a pair distribution function dataset.
 
 [Talks & Posters](https://andySAnker.github.io/talks/)
 ======
