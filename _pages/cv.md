@@ -28,10 +28,10 @@ Work experience
     * Research - Scientific communication - Creating and maintaining software pibeline
   * Supervisor: [Keith Tobias Butler (Senior Scientist)](https://www.scd.stfc.ac.uk/Pages/Keith-Butler.aspx)
 
-* 2016-2018: Student Assistent - NanoScience-Center, University of Copenhagen
+* 2016-2018: Student Assistent - Nano-Science Center, University of Copenhagen
     * Helping with the daily operation of the Nanoscience Center, which includes tasks as:
       * Maintenance and development of a professional and easy website - Communication with researchers
-      * Coordination of various events / Presentations to middle school and others with interest in Nanoscience
+      * Coordination of various events - Presentations to middle school and others with interest in Nanoscience
   * Supervisor: [Tine Buskjær Nielsen (Center Coordinator)](https://nano.ku.dk/english/contact/)
   
 * 2016-2018: Student Assistent - Cirkus Naturligvis
@@ -55,6 +55,8 @@ Prizes and Funding
 ======
 
 [Code](https://github.com/AndySAnker)
+======
+
 Private repositories
 ======
 * POMFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
