@@ -18,32 +18,25 @@ Education
 
 Work experience
 ======
-* 2018-: PhD Student
-  * [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
+* 2018-: PhD Student - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research / Scientific communication
     * Teaching / Supervising
-    * Creating and maintaining software pibelines | Co-responsible for setting up and maintaining computer resource
+    * Creating and maintaining software pibelines / Co-responsible for setting up and maintaining computer resource
   * Supervisor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
 
-* Sep. 2021 - Mar. 2022: Visiting PhD Student - Rutherford Appleton Laboratory
-  * [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx), Rutherford Appleton Laboratory, England
+* Sep. 2021 - Mar. 2022: Visiting PhD Student - [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx), Rutherford Appleton Laboratory, England
     * Research | Scientific communication | Creating and maintaining software pibeline
   * Supervisor: [Keith Tobias Butler (Senior Scientist)](https://www.scd.stfc.ac.uk/Pages/Keith-Butler.aspx)
 
-* 2016-2018: Student Assistent
-  * NanoScience-Center, University of Copenhagen
+* 2016-2018: Student Assistent - NanoScience-Center, University of Copenhagen
     * Helping with the daily operation of the Nanoscience Center, which includes tasks as:
-      * Maintenance and development of a professional and easy website | Communication with researchers
-      * Coordination of various events
-      * Presentations to middle school and others with interest in Nanoscience
-      * Ad Hoc tasks
+      * Maintenance and development of a professional and easy website / Communication with researchers
+      * Coordination of various events / Presentations to middle school and others with interest in Nanoscience
   * Supervisor: [Tine Buskjær Nielsen (Center Coordinator)](https://nano.ku.dk/english/contact/)
   
-* 2016-2018: Student Assistent
-  * Cirkus Naturligvis
+* 2016-2018: Student Assistent - Cirkus Naturligvis
     * Education of primary school students in nanoscience, physics and chemistry.
   * Supervisor: [Torben Ingerslev Roug (Head of school Cirkus Naturligvis)](https://www.linkedin.com/in/torbeningerslevroug/?originalSubdomain=dk)
-
 
 Prizes and Funding
 ======
