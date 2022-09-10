@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * 2018-: PhD Student - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
-    * Research - Scientific communication
-    * Teaching - Supervising
+    * Research * Scientific communication
+    * Teaching * Supervising
     * Creating and maintaining software pibelines - Co-responsible for setting up and maintaining computer resource
   * Supervisor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
 
