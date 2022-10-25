@@ -75,11 +75,13 @@ Private repositories
 [Supervision & Teaching](https://andySAnker.github.io/teaching/)
 ======
 
-[Review]Reviewed 4 papers for the AI4MAT workshop at NeurIPS (2022)
+Review
 ======
+* Reviewed 4 papers for the AI4MAT workshop at NeurIPS (2022)
 
-[Beamtime]15-20 experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
+Beamtime
 ======
+* 15-20 experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
 
 <!--
 Publications
