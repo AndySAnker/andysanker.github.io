@@ -38,17 +38,21 @@ Work experience
     * Education of primary school students in nanoscience, physics and chemistry.
   * Supervisor: [Torben Ingerslev Roug (Head of school Cirkus Naturligvis)](https://www.linkedin.com/in/torbeningerslevroug/?originalSubdomain=dk)
 
-Prizes and Funding
+Funding
+======
+* 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) to visit the Scientific Machine Learning Group, England and develop artificial intelligence methods to analyse scattering data within materials chemistry
+* 20.000 DKK Research Grant from the Siemens Foundation
+* 15.000 DKK Travel Grant from DDSA to attent NeurIPS 2022 & the AI4MAT workshop and present 1 among 2 accepted papers
+* Travel Funding – The Danish Chemical Society
+
+Prizes 
 ======
 * Winning team in the [Danish Fungi Challenge 2022](https://human-in-the-loop.compute.dtu.dk/challenge/) at Summer school on human-in-the-loop and learning with limited labels 
   * In the challenge we used a mix of high entropy- and density sampling to achieve high accuracy on classifying fungi images into 183 classes
-* 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) 
 * Best Bachelor Thesis 2018 at the Department of Chemistry, University of Copenhagen
-* 20.000 DKK Research Grant from the Siemens Foundation
 * ADD 2019 - Poster Gold Medal
 * ISIS student meeting 2021 – Poster Gold Medal
 * CHEAC Lighthouse Retreat 2021 - Poster Medal
-* Travel Funding – The Danish Chemical Society
 * Inorganic Graduate Student Seminar 2019 – Poster Gold Medal
 
 [Publications](https://scholar.google.com/citations?user=uQY14MjfYsIC&hl=da&oi=ao)
@@ -69,6 +73,12 @@ Private repositories
 ======
 
 [Supervision & Teaching](https://andySAnker.github.io/teaching/)
+======
+
+[Review]Reviewed 4 papers for the AI4MAT workshop at NeurIPS (2022)
+======
+
+[Beamtime]15-20 experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
 ======
 
 <!--

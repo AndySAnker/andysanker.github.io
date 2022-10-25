@@ -14,6 +14,9 @@ Talks
 * UK Neutron & Muon Science and User Meeting (NMSUM) (2022)
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
+* SMART Student Meeting (2022)
+	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
+
 * SMART Lighthouse PhD Summer School (2021)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
 
