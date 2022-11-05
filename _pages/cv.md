@@ -47,6 +47,7 @@ Funding
 
 Prizes 
 ======
+* Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
 * Winning team in the [Danish Fungi Challenge 2022](https://human-in-the-loop.compute.dtu.dk/challenge/) at Summer school on human-in-the-loop and learning with limited labels 
   * In the challenge we used a mix of high entropy- and density sampling to achieve high accuracy on classifying fungi images into 183 classes
 * Best Bachelor Thesis 2018 at the Department of Chemistry, University of Copenhagen

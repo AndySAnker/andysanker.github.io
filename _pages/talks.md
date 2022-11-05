@@ -11,6 +11,12 @@ redirect_from:
 
 Talks
 ======
+* Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
+	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
+
+* Invited - Seminar: European Spallation Source Data Management and Software Centre (2022)
+	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
+
 * UK Neutron & Muon Science and User Meeting (NMSUM) (2022)
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
