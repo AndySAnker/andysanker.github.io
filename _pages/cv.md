@@ -84,6 +84,22 @@ Beamtime
 ======
 * 15-20 experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
 
+Skills
+======
+* High Performance Computing
+* Cloud Computing
+* Oracle Cloud
+* Version Control
+* Job Scheduler
+* Python
+* SQL
+* Machine Learning
+* PyTorch
+* PyTorch Lightning
+* PyTorch Geometric
+* XGBoost
+* SHAP
+
 <!--
 Publications
 ======
@@ -105,4 +121,3 @@ Teaching
 
 -->
   
-
