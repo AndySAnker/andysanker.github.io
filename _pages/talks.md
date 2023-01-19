@@ -11,6 +11,9 @@ redirect_from:
 
 Talks
 ======
+* SMART Meeting, DTU (2023)
+	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
+
 * Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
 
