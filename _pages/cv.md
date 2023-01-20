@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV or [download CV](../files/CurriculumVitae.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[DOWNLOAD CV](../files/CurriculumVitae.pdf)
+======
 
 Education
 ======
