@@ -80,27 +80,43 @@ Private repositories
 
 Review
 ======
+* ACS Reviewer Lab Course (2022)
 * Reviewed 4 papers for the AI4MAT workshop at NeurIPS (2022)
 
 Beamtime
 ======
 * 15-20 experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
 
+Beamtime
+======
+* 15-20 PDF, SAXS, XRD and INS experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
+
+Outreach
+======
+One week Twitter takeover of the outreach account @RealSci_Nano including an outreach video (https://youtu.be/PywCje9_YF4), 2022
+
 Skills
 ======
-* High Performance Computing
-* Cloud Computing
+* High Performance Computing  * GPU-accelerated Computing * Cloud Computing
 * Oracle Cloud
 * Version Control
 * Job Scheduler
+* Multiprocessing
 * Python
+* Numpy, Pandas, Scikit-learn
 * SQL
 * Machine Learning
 * PyTorch
 * PyTorch Lightning
 * PyTorch Geometric
+* Generative Modelling
 * XGBoost
 * SHAP
+* autoML
+* Visualization tools (Matplotlib, Seaborn, Bokeh, Plotly)
+* Linux, MacOS, Windows
+* Frequent user of AI image and text generation.
+
 
 <!--
 Publications
