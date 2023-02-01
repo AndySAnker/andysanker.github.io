@@ -93,27 +93,17 @@ Beamtime
 
 Outreach
 ======
-One week Twitter takeover of the outreach account @RealSci_Nano including an outreach video (https://youtu.be/PywCje9_YF4), 2022
+One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitter.com/RealSci_Nano) including an [outreach video](https://youtu.be/PywCje9_YF4), 2022
 
 Skills
 ======
-* High Performance Computing  * GPU-accelerated Computing * Cloud Computing
-* Oracle Cloud
-* Version Control
-* Job Scheduler
-* Multiprocessing
-* Python
-* Numpy, Pandas, Scikit-learn
-* SQL
-* Machine Learning
-* PyTorch
-* PyTorch Lightning
-* PyTorch Geometric
-* Generative Modelling
-* XGBoost
-* SHAP
-* autoML
-* Visualization tools (Matplotlib, Seaborn, Bokeh, Plotly)
+* High Performance Computing  * GPU-accelerated Computing * Cloud Computing * Oracle Cloud
+* Version Control * Job Scheduler * Multiprocessing
+* Python * SQL
+* Machine Learning * autoML
+* Generative Modelling * Tree-based ML * Explainable ML 
+* PyTorch * PyTorch Lightning * PyTorch Geometric * XGBoost * SHAP
+* Data science tools (Numpy, Pandas, Scikit-learn) * Visualization tools (Matplotlib, Seaborn, Bokeh, Plotly)
 * Linux, MacOS, Windows
 * Frequent user of AI image and text generation.
 
