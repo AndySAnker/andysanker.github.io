@@ -28,7 +28,7 @@ Work experience
 
 * Sep. 2021 - Mar. 2022: Visiting PhD Student - [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx), Rutherford Appleton Laboratory, England
     * Research - Scientific communication - Creating and maintaining software pibeline
-  * Supervisor: [Keith Tobias Butler (Senior Lecturer)](https://www.scd.stfc.ac.uk/Pages/Keith-Butler.aspx)
+  * Supervisor: [Keith Tobias Butler (Senior Lecturer)](https://www.sems.qmul.ac.uk/staff/k.butler)
 
 * 2016-2018: Student Assistent - Nano-Science Center, University of Copenhagen
     * Helping with the daily operation of the Nanoscience Center, which includes tasks as:
