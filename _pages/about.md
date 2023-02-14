@@ -24,15 +24,16 @@ I have a range of research projects using PDF and SAXS to understand the formati
 1. [Structural Changes during the Growth of Atomically Precise Metal Oxido Nanoclusters from Combined Pair Distribution Function and Small‐Angle X‐ray Scattering Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202103641)
 2. [Size-induced amorphous structure in tungsten oxide nanoparticles](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d1nr05991b/unauth)
 3. [Formation and growth mechanism for niobium oxide nanoparticles: atomistic insight from in situ X-ray total scattering](https://pubs.rsc.org/en/content/articlehtml/2021/nr/d0nr08299f)
+
 <br>
 
 **Using explainable machine learning to automate the analysis of scattering data** <br>
 While we can analytically calculate the scattering pattern from a material, we are not able to straightforwardly determine the structure from a scattering pattern. This is called the inverse problem and is the reason I have spend enourmous amounts of time analysing scattering data. We can tackle the inverse problem by training machine learning (ML) based methods on large databases of structures and their calculated scattering pattern. By using explainable ML approaches, we can learn from the ML algorithms how they determine the chemical structure from a scattering pattern and thereby understand the underlying physics and chemistry. <br>
 **Collaborators:** I collaborated with Professor [Simon J. L. Billinge](https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en) from Columbia University and Assistant Professor [Raghavendra Selvan](https://raghavian.github.io/) from Department of Computer Science, UCPH. <br>
-**Papers:** 
-1.[Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3)
-2.[Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO 2](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f)
-3.[Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://chemrxiv.org/engage/chemrxiv/article-details/62ebefdcd131b71fc70c4ef2)
+**Papers:** <br>
+1.[Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3) <br>
+2.[Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO<sup>2</sup>](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f) <br>
+3.[Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://chemrxiv.org/engage/chemrxiv/article-details/62ebefdcd131b71fc70c4ef2) <br>
 
 <br>
 
@@ -42,6 +43,7 @@ Crystallographic methods, such as single crystal and powder diffraction, allow e
 **Papers:** 
 1. [DeepStruc: Towards structure solution from pair distribution function data using deep generative models](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00086e)
 2. [Characterising the atomic structure of mono-metallic nanoparticles from x-ray scattering data using conditional generative models](https://par.nsf.gov/biblio/10300745)
+
 <br>
 
 **Using generative adversarial networks to match simulated and experimental inelastic neutron scattering data** <br>
