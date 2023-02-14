@@ -41,7 +41,8 @@ While we can analytically calculate the scattering pattern from a material, we a
 
 **Using generative models for structure solution from pair distribution function data** <br>
 Crystallographic methods, such as single crystal and powder diffraction, allow establishing the links between material structure and properties that are at the heart of materials development. However, other approaches for atomic-scale structure determination are needed for nanostructured materials that have limited long-range order. Over the past decades, Pair Distribution Function (PDF) analysis has become a core tool for analysis of nanomaterial structure. Currently, PDF analysis is mainly done by fitting a known starting model to an experimental PDF to extract quantitative structural information. However, identifying a model or solving a structure de novo, from a PDF, is still an enormous challenge. I develop generative models that can solve a simple nanoparticle structure directly from a PDF. <br>
-**Collaborators:** I collaborated with Professor [Simon J. L. Billinge](https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en) from Columbia University and [Assistant Professor Raghavendra Selvan](https://raghavian.github.io/) from Department of Computer Science, UCPH. <br>
+**Collaborators:** I collaborated with Professor [Simon J. L. Billinge](https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en) from Columbia University and [Assistant Professor Raghavendra Selvan](https://raghavian.github.io/) from Department of Computer Science, UCPH.
+
 **Papers:** 
 1. [DeepStruc: Towards structure solution from pair distribution function data using deep generative models](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00086e)
 2. [Characterising the atomic structure of mono-metallic nanoparticles from x-ray scattering data using conditional generative models](https://par.nsf.gov/biblio/10300745)
