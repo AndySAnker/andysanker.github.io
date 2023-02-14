@@ -32,8 +32,15 @@ While we can analytically calculate the scattering pattern from a material, we a
 **Collaborators:** I collaborated with Professor [Simon J. L. Billinge](https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en) from Columbia University and Assistant Professor [Raghavendra Selvan](https://raghavian.github.io/) from Department of Computer Science, UCPH. <br>
 **Papers:** <br>
 1.[Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3) <br>
-2.[Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO<sup>2</sup>](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f) <br>
+2.[Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO<sub>2</sub>](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f) <br>
 3.[Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://chemrxiv.org/engage/chemrxiv/article-details/62ebefdcd131b71fc70c4ef2) <br>
+
+<ul style="list-style-type: disc; padding-left: 0;">
+  <li>[Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3)</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
 
 <br>
 
