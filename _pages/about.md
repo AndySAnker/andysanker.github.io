@@ -19,7 +19,8 @@ Research projects
 **Using X-ray scattering to study the structure of nanomaterials during reaction** <br>
 Designing new functional materials relies on understanding the fundamental chemical reactions that govern material formation and growth. In inorganic and materials chemistry, we are still challenged in describing these processes on an atomic scale, as studies of nucleation and growth phenomena are challenging. Pair distribution function (PDF) analysis and small-angle X-ray scattering (SAXS) enables analysis of the formation mechanism of metal oxido nanoclusters and cluster–solvent interactions as they take place. 
 I have a range of research projects using PDF and SAXS to understand the formation mechanism of nanomaterials and I have been especially interested to create new modelling approaches of PDF and SAXS data. <br>
-**Collaborators:** I collaborated with Martin Schmiele and Erik Brok from the [Linx project](https://linxassociation.com/) for a few years doing SAXS. <br>
+**Collaborators:** I collaborated with Martin Schmiele and Erik Brok from the [Linx project](https://linxassociation.com/) for a few years doing SAXS. 
+
 **Papers:** 
 1. [Structural Changes during the Growth of Atomically Precise Metal Oxido Nanoclusters from Combined Pair Distribution Function and Small‐Angle X‐ray Scattering Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202103641)
 2. [Size-induced amorphous structure in tungsten oxide nanoparticles](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d1nr05991b/unauth)
@@ -29,18 +30,12 @@ I have a range of research projects using PDF and SAXS to understand the formati
 
 **Using explainable machine learning to automate the analysis of scattering data** <br>
 While we can analytically calculate the scattering pattern from a material, we are not able to straightforwardly determine the structure from a scattering pattern. This is called the inverse problem and is the reason I have spend enourmous amounts of time analysing scattering data. We can tackle the inverse problem by training machine learning (ML) based methods on large databases of structures and their calculated scattering pattern. By using explainable ML approaches, we can learn from the ML algorithms how they determine the chemical structure from a scattering pattern and thereby understand the underlying physics and chemistry. <br>
-**Collaborators:** I collaborated with Professor [Simon J. L. Billinge](https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en) from Columbia University and Assistant Professor [Raghavendra Selvan](https://raghavian.github.io/) from Department of Computer Science, UCPH. <br>
+**Collaborators:** I collaborated with Professor [Simon J. L. Billinge](https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en) from Columbia University and Assistant Professor [Raghavendra Selvan](https://raghavian.github.io/) from Department of Computer Science, UCPH. 
+
 **Papers:** <br>
-1.[Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3) <br>
-2.[Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO<sub>2</sub>](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f) <br>
-3.[Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://chemrxiv.org/engage/chemrxiv/article-details/62ebefdcd131b71fc70c4ef2) <br>
-
-<ul style="list-style-type: disc; padding-left: 0;">
-  <li>[Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3)</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ul>
-
+1. [Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3) <br>
+2. [Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO<sub>2</sub>](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f) <br>
+3. [Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://chemrxiv.org/engage/chemrxiv/article-details/62ebefdcd131b71fc70c4ef2) <br>
 
 <br>
 
@@ -55,6 +50,7 @@ Crystallographic methods, such as single crystal and powder diffraction, allow e
 
 **Using generative adversarial networks to match simulated and experimental inelastic neutron scattering data** <br>
 Supervised machine learning (ML) models are frequently trained on large datasets of physics-based simulations with the aim of being applied to experimental data. However, ML models trained on simulated data often struggle to perform on experimental data, because there is a shift in the data caused by experimental artefacts that might be challenging to simulate. We introduce Exp2SimGAN, an unsupervised image-to-image ML model to match simulated and experimental data. To train, Exp2SimGAN only requires a set of experimental data and a set of (not necessarily corresponding) simulated data. Once trained, it can convert a simulated dataset into one that resembles an experiment, and vice versa. We demonstrate that Exp2SimGAN can be used to match simulated and experimental two- and three-dimensional inelastic neutron scattering (INS) spectra, enabling the analysis of experimental INS data using supervised ML. Finally, we provide a domain of application measure for Exp2SimGAN, allowing us to assess the likelihood that Exp2SimGAN will be successful on a specific dataset. Exp2SimGAN is a step towards analysis of experimental data using supervised ML models trained on physics-based simulations. <br>
-**Collaborators:** I collaborated with Senior Lecturer [Keith Tobias Butler](https://www.sems.qmul.ac.uk/staff/k.butler), the  [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx) and [Dr. Duc Le](https://www.isis.stfc.ac.uk/Pages/Dr-Duc-Le.aspx) and Professor [Toby Perring](https://www.isis.stfc.ac.uk/Pages/Prof-Toby-Perring.aspx) from ISIS. <br>
+**Collaborators:** I collaborated with Senior Lecturer [Keith Tobias Butler](https://www.sems.qmul.ac.uk/staff/k.butler), the  [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx) and [Dr. Duc Le](https://www.isis.stfc.ac.uk/Pages/Dr-Duc-Le.aspx) and Professor [Toby Perring](https://www.isis.stfc.ac.uk/Pages/Prof-Toby-Perring.aspx) from ISIS.
+
 **Papers:**
 1. [Using generative adversarial networks to match experimental and simulated inelastic neutron scattering data](https://chemrxiv.org/engage/chemrxiv/article-details/63a15e21a53ea6c3c751564f)
