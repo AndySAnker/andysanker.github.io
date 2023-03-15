@@ -4,7 +4,7 @@ collection: teaching
 type: "BSc students"
 permalink: /teaching/Teaching
 venue: "University of Copenhagen, Department of Chemistry"
-date: 2021-01-01
+date: 2020-01-01
 ---
 
 Teaching assistant for Chemistry courses at Department of Chemistry, University of Copenhagen:
