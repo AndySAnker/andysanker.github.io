@@ -85,7 +85,7 @@ Review
 
 Beamtime
 ======
-* 15-20 PDF, SAXS, XRD and INS experiments conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
+* 15-20 scattering and spectroscopy experiments (PDF, SAXS, XRD and INS) conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
 
 Outreach
 ======
@@ -94,6 +94,7 @@ One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitte
 Skills
 ======
 * High Performance Computing  * GPU-accelerated Computing * Cloud Computing * Oracle Cloud
+* [App development](https://huggingface.co/AndySAnker)
 * Version Control * Job Scheduler * Multiprocessing
 * Python * SQL
 * Machine Learning * autoML
