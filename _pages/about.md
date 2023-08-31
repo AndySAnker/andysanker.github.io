@@ -10,7 +10,7 @@ redirect_from:
 
 Throughout my university career at the [Nanostructure Group UPCH](https://nanostructure-cph.com/) supervised by [Kirsten Marie Ørnsbjerg Jensen](https://scholar.google.com/citations?user=0LD11kYAAAAJ&hl=da&oi=ao), I have worked with material chemistry, where my main interest has been to study nanoparticles and structures in solution with Total X-ray Scattering with Pair Distribution Function (PDF) and Small-Angle X-ray Scattering (SAXS). I have applied advanced computer modelling, in Python, to combine information of both the local order from PDF and the particle order from SAXS, which overcome problems that the methods cannot overcome individually. 
 During my career, the research focus has converged towards developing machine learning (ML) methods to analyse chemical data; especially PDF & SAXS, after I met Assistant Professor [Raghavendra Selvan](https://raghavian.github.io/) who I had collaborated with since 2019. I have furthermore spent 6 months during my PhD working at Rutherford Appleton Laboratory with Senior Lecturer [Keith Tobias Butler](https://www.sems.qmul.ac.uk/staff/k.butler) and the [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx) to develope an general approach to match simulated and experimental data in materials chemistry.
-During the last period of my PhD, I will especially focus on using generative models to analyse a range of data used to analyse chemistry as scattering-, spectroscopy- and imaging data.
+During the last period of my PhD, I have especially focused on using generative models to analyse scattering-, and spectroscopy data. I have recently been awarded a 4 000 000 DKK (~ £500 000) postdoctoral grant to pursue an academic career in the interface of materials chemistry, machine learning and automation. Here, I will build a self-driving laboratory for controlled synthesis of inorganic nanomaterials starting from 1st December 2023.
 
 
 Research projects
@@ -35,7 +35,7 @@ While we can analytically calculate the scattering pattern from a material, we a
 **Papers:** <br>
 1. [Extracting structural motifs from pair distribution function data of nanostructures using explainable machine learning](https://www.nature.com/articles/s41524-022-00896-3) <br>
 2. [Characterisation of intergrowth in metal oxide materials using structure-mining: the case of γ-MnO<sub>2</sub>](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d2dt02153f) <br>
-3. [Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://chemrxiv.org/engage/chemrxiv/article-details/62ebefdcd131b71fc70c4ef2) <br>
+3. [Atomic structural changes in the formation of transition metal tungstates: the role of polyoxometalate structures in material crystallization](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc00426k) <br>
 
 <br>
 
@@ -54,4 +54,4 @@ Supervised machine learning (ML) models are frequently trained on large datasets
 **Collaborators:** I collaborated with Senior Lecturer [Keith Tobias Butler](https://www.sems.qmul.ac.uk/staff/k.butler), the  [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx) and [Dr. Duc Le](https://www.isis.stfc.ac.uk/Pages/Dr-Duc-Le.aspx) and Professor [Toby Perring](https://www.isis.stfc.ac.uk/Pages/Prof-Toby-Perring.aspx) from ISIS.
 
 **Papers:**
-1. [Using generative adversarial networks to match experimental and simulated inelastic neutron scattering data](https://chemrxiv.org/engage/chemrxiv/article-details/63a15e21a53ea6c3c751564f)
+1. [Using generative adversarial networks to match experimental and simulated inelastic neutron scattering data](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d2dd00147k)

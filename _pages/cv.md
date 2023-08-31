@@ -22,7 +22,11 @@ Education
 
 Work experience
 ======
-* 2018-: PhD Student - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
+* 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
+    * Research and scientific communication
+    * Creating and maintaining software pibelines - Co-responsible for setting up and maintaining computer resource
+  * Mentor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
+* 2018-2023: PhD Student - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research and scientific communication
     * Teaching and supervising
     * Creating and maintaining software pibelines - Co-responsible for setting up and maintaining computer resource
@@ -44,6 +48,8 @@ Work experience
 
 Funding
 ======
+* 700 pounds AI in Chemistry 2023 Bursary
+* 4.000.000 DKK Postdoctoral Fellowship from Novo Nordisk Foundation
 * 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) to visit the Scientific Machine Learning Group, England and develop artificial intelligence methods to analyse scattering data within materials chemistry
 * 20.000 DKK Research Grant from the Siemens Foundation
 * 15.000 DKK Travel Grant from DDSA to attent NeurIPS 2022 & the AI4MAT workshop and present 1 among 2 accepted papers
@@ -68,9 +74,6 @@ Prizes
 
 Private repositories
 ======
-* POMFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
-  * POMFinder predicts a polyoxometalate structure from a pair distribution function dataset.
-
 * CIFFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
   * CIFFinder predicts a crystal structure from a pair distribution function dataset.
 
