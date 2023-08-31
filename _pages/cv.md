@@ -13,6 +13,10 @@ redirect_from:
 
 Education
 ======
+
+<a href="https://drive.google.com/file/d/1anmQWaqCiPWSC0fAZ4lasGhxXmQpHtpe/view?usp=drive_link" target="_blank">PhD Dissertation</a>
+
+
 * M.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2021 (Grade avg: 11.5)
   * [Master Thesis](../files/MasterThesis.pdf): Pushing the boundaries of Nanocluster Modelling from Pair Distribution Function and Small-Angle X-ray Scattering Analysis
 * B.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2018 (Grade avg: 10.2)
