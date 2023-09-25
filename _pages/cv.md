@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * PhD in Materials Chemistry, Department of Chemistry, University of Copenhagen, 2023
-  * [PhD Dissertation](../files/PhDThesis_HTML_eBook/index.html): Towards Automated Structure Analysis of Nanoparticles
+  * [PhD Dissertation](../files/PhDThesis_HTML_eBook_Temporary/index.html): Towards Automated Structure Analysis of Nanoparticles
 * M.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2021 (Grade avg: 11.5)
   * [Master Thesis](../files/MasterThesis_HTML_eBook/index.html): Pushing the boundaries of Nanocluster Modelling from Pair Distribution Function and Small-Angle X-ray Scattering Analysis
 * B.S. in Nanoscience, Department of Chemistry, University of Copenhagen, 2018 (Grade avg: 10.2)
