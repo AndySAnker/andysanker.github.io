@@ -57,6 +57,7 @@ Funding
 
 Prizes 
 ======
+* [Nordic AI 2023 - AI-Generated Art Challenge: Nordic Landscapes](../files/AndySAnker_Depict_a_tranquil_morning_in_Copenhagen_as_the_city__5ea71928-87d7-4573-82e9-df67575a646b)
 * Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
 * Winning team in the [Danish Fungi Challenge 2022](https://human-in-the-loop.compute.dtu.dk/challenge/) at Summer school on human-in-the-loop and learning with limited labels 
   * In the challenge we used a mix of high entropy- and density sampling to achieve high accuracy on classifying fungi images into 183 classes
