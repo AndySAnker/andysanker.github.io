@@ -73,11 +73,6 @@ Prizes
 [Code](https://github.com/AndySAnker)
 ======
 
-Private repositories
-======
-* CIFFinder - installed at the international light source facility [MAX IV](https://www.maxiv.lu.se/) at beamline [DanMAX](https://www.maxiv.lu.se/beamlines-accelerators/beamlines/danmax/).
-  * CIFFinder predicts a crystal structure from a pair distribution function dataset.
-
 [Talks & Posters](https://andySAnker.github.io/talks/)
 ======
 
@@ -87,15 +82,17 @@ Private repositories
 Review
 ======
 * ACS Reviewer Lab Course (2022)
-* Reviewed 4 papers for the AI4MAT workshop at NeurIPS (2022)
+* Reviewed 9 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, and 2 papers for npj Computational Materials.
 
 Beamtime
 ======
-* 15-20 scattering and spectroscopy experiments (PDF, SAXS, XRD and INS) conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
+* 20+ scattering and spectroscopy experiments (PDF, SAXS, XRD and INS) conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
 
 Outreach
 ======
-One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitter.com/RealSci_Nano) including an [outreach video](https://youtu.be/PywCje9_YF4), 2022
+* One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitter.com/RealSci_Nano) including an [outreach video](https://youtu.be/PywCje9_YF4), 2022
+* Paper in the danish popular science journal - [Aktuel Naturvidenskab](https://aktuelnaturvidenskab.dk/fileadmin/Aktuel_Naturvidenskab/nr-1/AN1-2021-materialeudvikling.pdf">Aktuel)
+
 
 Skills
 ======
