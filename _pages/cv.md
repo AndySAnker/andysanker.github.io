@@ -82,7 +82,7 @@ Prizes
 Review
 ======
 * ACS Reviewer Lab Course (2022)
-* Reviewed 9 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, and 2 papers for npj Computational Materials.
+* Reviewed 11 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), and 2 papers for npj Computational Materials.
 
 Beamtime
 ======
