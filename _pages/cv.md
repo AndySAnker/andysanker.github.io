@@ -23,8 +23,8 @@ Education
 Work experience
 ======
 * 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
-    * Research and scientific communication
-    * Creating and maintaining software pibelines - Co-responsible for setting up and maintaining computer resource
+    * Research, scientific communication and supervision
+    * Creating and maintaining software pibelines - Co-responsible for maintaining computer resource
   * Mentor: [Kirsten Marie Ørnsbjerg Jensen (Associate Professor)](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779)
 * 2018-2023: PhD Student - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research and scientific communication
@@ -34,7 +34,7 @@ Work experience
 
 * Sep. 2021 - Mar. 2022: Visiting PhD Student - [Scientific Machine Learning Group](https://www.scd.stfc.ac.uk/Pages/Scientific-Machine-Learning.aspx), Rutherford Appleton Laboratory, England
     * Research - Scientific communication - Creating and maintaining software pibeline
-  * Supervisor: [Keith Tobias Butler (Senior Lecturer)](https://www.sems.qmul.ac.uk/staff/k.butler)
+  * Supervisor: [Keith Tobias Butler (Senior Lecturer)](https://mdi-group.github.io/)
 
 * 2016-2018: Student Assistent - Nano-Science Center, University of Copenhagen
     * Helping with the daily operation of the Nanoscience Center, which includes tasks as:
@@ -82,7 +82,7 @@ Prizes
 Review
 ======
 * ACS Reviewer Lab Course (2022)
-* Reviewed 11 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), and 2 papers for npj Computational Materials.
+* Reviewed 11 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), and 4 papers for npj Computational Materials.
 
 Beamtime
 ======

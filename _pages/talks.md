@@ -55,6 +55,9 @@ Posters chosen
 
 Posters
 ======
+* [6th AI in Chemistry Symposium (2023)](../files/Poster_DeepStruc.pdf)
+	* DeepStruc: Towards structure solution from pair distribution function data using deep generative models
+
 * [Summer school on human-in-the-loop and learning with limited labels (2022)](../files/Poster_DeepStruc.pdf)
 	* DeepStruc: Towards structure solution from pair distribution function data using deep generative models
 
