@@ -22,6 +22,8 @@ Education
 
 Work experience
 ======
+* 2023: Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
+  * Mentor: [Tejs Vegge (Professor)](https://orbit.dtu.dk/en/persons/tejs-vegge)
 * 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research, scientific communication and supervision
     * Creating and maintaining software pibelines - Co-responsible for maintaining computer resource

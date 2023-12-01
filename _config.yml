@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Andy"
   avatar           : "profile.png"
-  bio              : "Postdoc in the Nanostructure group UCPH, Department of Chemistry, University of Copenhagen.
-                      My main interest is to use machine learning for materials chemistry. My profile image is AI enhanced."
+  bio              : "Postdoc @ DTU Energy | Novo Nordisk Foundation Grantee | Soon Visiting Postdoc @ Oxford Chemistry
+                      My main interest is to use machine learning for experimental data analysis in materials chemistry. My profile image is AI enhanced."
   location         : "Copenhagen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uQY14MjfYsIC&hl=da&oi=ao"
-  email            : "andy@chem.ku.dk"
+  email            : "ansoan@dtu.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
