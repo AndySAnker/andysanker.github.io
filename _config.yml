@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Andy"
   avatar           : "profile.png"
-  bio              : "Postdoc @ DTU Energy | Novo Nordisk Foundation Grantee | Soon Visiting Postdoc @ Oxford Chemistry
-                      My main interest is to use machine learning for experimental data analysis in materials chemistry. My profile image is AI enhanced."
+  bio              : "Postdoc @ DTU Energy | Novo Nordisk Foundation Grantee | Visiting Postdoc @ Oxford Chemistry
+                      My main interest is to use machine learning for experimental data analysis in materials chemistry."
   location         : "Copenhagen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
