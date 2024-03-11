@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: "Using X-ray scattering to study the structure of nanomaterials during reaction"
-excerpt: ""
+permalink: /ResearchProjects/Xray_NPs
 author_profile: true
 redirect_from: 
   - /ResearchProjects/Xray_NPs.md/
+  - /ResearchProjects/Xray_NPs.html/
 ---
 
 tester
