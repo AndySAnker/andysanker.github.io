@@ -1,7 +1,7 @@
 ---
 title: "Using X-ray scattering to study the structure of nanomaterials during reaction"
 collection: research
-permalink: /research/
+permalink: /research/Xray_NPs
 ---
 
 Designing new functional materials relies on understanding the fundamental chemical reactions that govern material formation and growth. In inorganic and materials chemistry, we are still challenged in describing these processes on an atomic scale, as studies of nucleation and growth phenomena are challenging. Pair distribution function (PDF) analysis and small-angle X-ray scattering (SAXS) enables analysis of the formation mechanism of metal oxido nanoclusters and cluster–solvent interactions as they take place. 
