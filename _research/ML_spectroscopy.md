@@ -4,7 +4,7 @@ collection: research
 permalink: /research/ML_spectroscopy
 ---
 
-<img src="../files/FrontCoverImages/BismuthFrontCover.png" height="300">
+<img src="../files/FrontCoverImages/Exp2SimGAN.png" height="300">
 
 **Using generative adversarial networks to match simulated and experimental inelastic neutron scattering data** <br>
 Supervised machine learning (ML) models are frequently trained on large datasets of physics-based simulations with the aim of being applied to experimental data. However, ML models trained on simulated data often struggle to perform on experimental data, because there is a shift in the data caused by experimental artefacts that might be challenging to simulate. We introduce Exp2SimGAN, an unsupervised image-to-image ML model to match simulated and experimental data. To train, Exp2SimGAN only requires a set of experimental data and a set of (not necessarily corresponding) simulated data. Once trained, it can convert a simulated dataset into one that resembles an experiment, and vice versa. We demonstrate that Exp2SimGAN can be used to match simulated and experimental two- and three-dimensional inelastic neutron scattering (INS) spectra, enabling the analysis of experimental INS data using supervised ML. Finally, we provide a domain of application measure for Exp2SimGAN, allowing us to assess the likelihood that Exp2SimGAN will be successful on a specific dataset. Exp2SimGAN is a step towards analysis of experimental data using supervised ML models trained on physics-based simulations. <br>
