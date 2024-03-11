@@ -17,11 +17,7 @@ During my career, the research focus has converged towards developing machine le
 Research projects
 =======
 - ![Using X-ray scattering to study the structure of nanomaterials during reaction](../files/FrontCoverImages/BismuthFrontCover.png)
-  - [Using X-ray scattering to study the structure of nanomaterials during reaction](/ResearchProjects/Xray_NPs.md)
-- ![Image Alt Text](image_url_for_second_bullet "Image Title")
-  - [Title for second bullet](/ResearchProjects/Xray_NPs.md)
-- ![Image Alt Text](image_url_for_third_bullet "Image Title")
-  - [Title for third bullet](/ResearchProjects/Xray_NPs.md)
+  - [Using X-ray scattering to study the structure of nanomaterials during reaction](../_teaching/Master-supervision.md)
 
 **Using X-ray scattering to study the structure of nanomaterials during reaction** <br>
 Designing new functional materials relies on understanding the fundamental chemical reactions that govern material formation and growth. In inorganic and materials chemistry, we are still challenged in describing these processes on an atomic scale, as studies of nucleation and growth phenomena are challenging. Pair distribution function (PDF) analysis and small-angle X-ray scattering (SAXS) enables analysis of the formation mechanism of metal oxido nanoclusters and cluster–solvent interactions as they take place. 
