@@ -2,6 +2,7 @@
 title: "Machine learning for analysis of experimental spectroscopy data in materials chemistry"
 collection: research
 permalink: /research/ML_spectroscopy
+date: 2022-10-01
 ---
 
 <img src="../files/FrontCoverImages/Exp2SimGAN.jpg" height="40">

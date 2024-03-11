@@ -2,6 +2,7 @@
 title: "Building a self-driving laboratory for controlled synthesis of inorganic materials."
 collection: research
 permalink: /research/SDL
+date: 2023-12-01
 ---
 
 I have recently been awarded a 4 000 000 DKK (~ £500 000) postdoctoral grant to pursue an academic career in the interface of materials chemistry, machine learning and robotics. Here, I am building a self-driving laboratory for controlled synthesis of inorganic nanomaterials.
