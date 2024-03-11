@@ -9,16 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+Keynote talk
+======
+
+* Conference: Machine 	Learning 	Conference for X-Ray and Neutron-Based Experiments, Garching, Germany (2024)
+	* Generative machine learning for scattering and spectroscopy data analysis
+	
+	
+Invited talks
+======
+
+* Conference: Chemical Compound Space Conference, Heidelberg, Germany (2024)
+	* TBA
+
+* Conference: Conference: Machine Learning Modalities for Materials Science, Ljubljana, Slovenia (2024)
+	* TBA
+
+* Seminar: DTU 	NanoLab, Copenhagen, Denmark (2023)
+	* AI in Science: Transforming Communication, Data Analysis, and Laboratory Practices
+
+* Seminar: Materials Innovation Factory, Liverpool, United Kingdom (2023)
+	* Towards Automated Structure Analysis of Nanoparticles
+
+* Seminar: European Spallation Source Data Management and Software Centre, Copenhagen, Denmark (2022)
+	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
+
+
 Talks
 ======
+
 * SMART Meeting, DTU (2023)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
 
 * Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
-
-* Invited - Seminar: European Spallation Source Data Management and Software Centre (2022)
-	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
 * UK Neutron & Muon Science and User Meeting (NMSUM) (2022)
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
