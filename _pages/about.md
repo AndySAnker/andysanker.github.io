@@ -16,7 +16,7 @@ During my career, the research focus has converged towards developing machine le
 
 Research projects
 =======
-- ![Using X-ray scattering to study the structure of nanomaterials during reaction](../files/FrontCoverImages/BismuthFrontCover "Image Title")
+- ![Using X-ray scattering to study the structure of nanomaterials during reaction](../files/FrontCoverImages/BismuthFrontCover.png)
   - [Using X-ray scattering to study the structure of nanomaterials during reaction](/ResearchProjects/Xray_NPs.md)
 - ![Image Alt Text](image_url_for_second_bullet "Image Title")
   - [Title for second bullet](/ResearchProjects/Xray_NPs.md)
