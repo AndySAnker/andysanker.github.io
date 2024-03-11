@@ -4,7 +4,7 @@ collection: research
 permalink: /research/Xray_NPs
 ---
 
-<img src="../files/FrontCoverImages/BismuthFrontCover.png" height="300">
+<img src="../files/FrontCoverImages/BismuthFrontCover.png" height="100">
 
 Designing new functional materials relies on understanding the fundamental chemical reactions that govern material formation and growth. In inorganic and materials chemistry, we are still challenged in describing these processes on an atomic scale, as studies of nucleation and growth phenomena are challenging. Pair distribution function (PDF) analysis and small-angle X-ray scattering (SAXS) enables analysis of the formation mechanism of metal oxido nanoclusters and cluster–solvent interactions as they take place. 
 I have a range of research projects using PDF and SAXS to understand the formation mechanism of nanomaterials and I have been especially interested to create new modelling approaches of PDF and SAXS data. <br>
