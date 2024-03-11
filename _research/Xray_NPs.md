@@ -2,7 +2,7 @@
 title: "Using X-ray scattering to study the structure of nanomaterials during reaction"
 collection: research
 permalink: /research/Xray_NPs
-date: 2021-01-01
+date: 2021-05-30
 ---
 
 <div style="text-align: center;">

@@ -2,7 +2,7 @@
 title: "Machine learning for analysis of experimental scattering data in materials chemistry"
 collection: research
 permalink: /research/ML_scattering
-date: 2023-11-01
+date: 2022-11-28
 ---
 
 <div style="text-align: center;">
