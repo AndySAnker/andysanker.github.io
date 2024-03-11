@@ -6,7 +6,7 @@ date: 2021-05-30
 ---
 
 <div style="text-align: center;">
-    <img src="../files/FrontCoverImages/BismuthFrontCover.png" style="height:10cm">
+    <img src="../files/FrontCoverImages/BismuthFrontCover.png" style="height:12cm">
 </div>
 
 Designing new functional materials relies on understanding the fundamental chemical reactions that govern material formation and growth. In inorganic and materials chemistry, we are still challenged in describing these processes on an atomic scale, as studies of nucleation and growth phenomena are challenging. Pair distribution function (PDF) analysis and small-angle X-ray scattering (SAXS) enables analysis of the formation mechanism of metal oxido nanoclusters and cluster–solvent interactions as they take place. 

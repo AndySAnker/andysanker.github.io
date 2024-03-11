@@ -6,7 +6,7 @@ date: 2022-11-28
 ---
 
 <div style="text-align: center;">
-    <img src="../files/FrontCoverImages/DeepStruc.jpg" style="height:10cm">
+    <img src="../files/FrontCoverImages/DeepStruc.jpg" style="height:12cm">
 </div>
 **Using generative models for structure solution from pair distribution function data** <br>
 Crystallographic methods, such as single crystal and powder diffraction, allow establishing the links between material structure and properties that are at the heart of materials development. However, other approaches for atomic-scale structure determination are needed for nanostructured materials that have limited long-range order. Over the past decades, Pair Distribution Function (PDF) analysis has become a core tool for analysis of nanomaterial structure. Currently, PDF analysis is mainly done by fitting a known starting model to an experimental PDF to extract quantitative structural information. However, identifying a model or solving a structure de novo, from a PDF, is still an enormous challenge. I develop ML models that can identify the structural model from a PDF, extract structural motifs from the PDF or in some cases solve a simple nanoparticle structure directly from a PDF. <br>
