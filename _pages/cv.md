@@ -22,7 +22,9 @@ Education
 
 Work experience
 ======
-* 2023: Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
+* 2024 - : Visiting researcher - [Prof. Deringer](https://www.chem.ox.ac.uk/people/volker-deringer), Department of Chemistry, University of Oxford
+  * Mentor: [Volker L. Deringer (Associate Professor)](https://scholar.google.com/citations?user=LmnbxvQAAAAJ&hl=de)
+* 2023 - : Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
   * Mentor: [Tejs Vegge (Professor)](https://orbit.dtu.dk/en/persons/tejs-vegge)
 * 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research, scientific communication and supervision
@@ -59,6 +61,7 @@ Funding
 
 Prizes 
 ======
+* Forbes 30 Under 30 Europe list for Science and Healthcare 2024
 * [Nordic AI 2023 - AI-Generated Art Challenge: Nordic Landscapes](../files/AndySAnker_Depict_a_tranquil_morning_in_Copenhagen_as_the_city__5ea71928-87d7-4573-82e9-df67575a646b.png)
 * Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
 * Winning team in the [Danish Fungi Challenge 2022](https://human-in-the-loop.compute.dtu.dk/challenge/) at Summer school on human-in-the-loop and learning with limited labels 
@@ -84,7 +87,7 @@ Prizes
 Review
 ======
 * ACS Reviewer Lab Course (2022)
-* Reviewed 11 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), and 4 papers for npj Computational Materials.
+* Reviewed 16 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), and 7 papers for npj Computational Materials.
 
 Beamtime
 ======
