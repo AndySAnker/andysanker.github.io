@@ -61,6 +61,7 @@ Funding
 
 Prizes 
 ======
+* [Danscatt PhD award](https://danscatt.dk/danscatt-annual-meeting-2024/) 2024
 * Forbes 30 Under 30 Europe list for Science and Healthcare 2024
 * [Nordic AI 2023 - AI-Generated Art Challenge: Nordic Landscapes](../files/AndySAnker_Depict_a_tranquil_morning_in_Copenhagen_as_the_city__5ea71928-87d7-4573-82e9-df67575a646b.png)
 * Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
@@ -87,7 +88,7 @@ Prizes
 Review
 ======
 * ACS Reviewer Lab Course (2022)
-* Reviewed 16 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), and 7 papers for npj Computational Materials.
+* Reviewed 20 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), 4 for the AI4Science workshop at ICML in 2024, and 7 papers for npj Computational Materials.
 
 Beamtime
 ======
@@ -97,6 +98,7 @@ Outreach
 ======
 * One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitter.com/RealSci_Nano) including an [outreach video](https://youtu.be/PywCje9_YF4), 2022
 * Paper in the danish popular science journal - [Aktuel Naturvidenskab](https://aktuelnaturvidenskab.dk/fileadmin/Aktuel_Naturvidenskab/nr-1/AN1-2021-materialeudvikling.pdf">Aktuel)
+* Paper in the danish popular science journal - [Ingeniøren](https://ing.dk/holdning/fagligt-talt-selvkoerende-ai-laboratorier-skal-drive-fremtidens-materialeforskning)
 
 
 Skills

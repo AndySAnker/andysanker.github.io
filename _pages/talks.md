@@ -18,14 +18,19 @@ Keynote talk
 	* Generative machine learning for scattering and spectroscopy data analysis
 	
 	
+Invited panel discussions
+======
+
+* Conference: Conference: Machine Learning Modalities for Materials Science, Ljubljana, Slovenia (2024)
+
 Invited talks
 ======
 
 * Conference: Chemical Compound Space Conference, Heidelberg, Germany (2024)
-	* TBA
+	* Machine learning for analysis of experimental scattering data in materials chemistry
 
 * Conference: Conference: Machine Learning Modalities for Materials Science, Ljubljana, Slovenia (2024)
-	* TBA
+	* Machine learning for analysis of experimental scattering data in materials chemistry
 
 * Seminar: DTU 	NanoLab, Copenhagen, Denmark (2023)
 	* AI in Science: Transforming Communication, Data Analysis, and Laboratory Practices
@@ -39,6 +44,9 @@ Invited talks
 
 Talks
 ======
+
+* Danscatt Annual Meeting (2024)
+	* PhD Award Talk
 
 * SMART Meeting, DTU (2023)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data
