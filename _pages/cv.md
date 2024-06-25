@@ -62,7 +62,7 @@ Funding
 Prizes 
 ======
 * [Danscatt PhD award](https://danscatt.dk/danscatt-annual-meeting-2024/) 2024
-* Forbes 30 Under 30 Europe list for Science and Healthcare 2024
+* [Forbes 30 Under 30 Europe list for Science and Healthcare[(https://www.forbes.com/30-under-30/2024/europe/science-healthcare?profile=andy-sode-anker)] 2024
 * [Nordic AI 2023 - AI-Generated Art Challenge: Nordic Landscapes](../files/AndySAnker_Depict_a_tranquil_morning_in_Copenhagen_as_the_city__5ea71928-87d7-4573-82e9-df67575a646b.png)
 * Best talk award to PhD Seminar, Department of Chemistry, UCPH (2022)
 * Winning team in the [Danish Fungi Challenge 2022](https://human-in-the-loop.compute.dtu.dk/challenge/) at Summer school on human-in-the-loop and learning with limited labels 

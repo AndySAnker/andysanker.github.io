@@ -23,7 +23,7 @@ Invited panel discussions
 
 * Conference: Conference: Machine Learning Modalities for Materials Science, Ljubljana, Slovenia (2024)
 
-Invited talks
+Invited talks - international
 ======
 
 * Conference: Chemical Compound Space Conference, Heidelberg, Germany (2024)
@@ -31,6 +31,15 @@ Invited talks
 
 * Conference: Conference: Machine Learning Modalities for Materials Science, Ljubljana, Slovenia (2024)
 	* Machine learning for analysis of experimental scattering data in materials chemistry
+
+Invited talks - regional
+======
+
+* Seminar: European Spallation Source, Lund, Sweden (2024)
+	* Machine learning for analysis of experimental scatterin and spectroscopy data in materials chemistry
+
+* Workshop: AI workshop between University of Copenhagen, Technical University of Denmark and European Spallation Source Data Management and Software Centre, Kongens Lyngby, Denmark (2024)
+	* Machine learning for analysis of experimental scatterin and spectroscopy data in materials chemistry
 
 * Seminar: DTU 	NanoLab, Copenhagen, Denmark (2023)
 	* AI in Science: Transforming Communication, Data Analysis, and Laboratory Practices
