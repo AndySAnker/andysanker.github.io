@@ -38,7 +38,7 @@ Invited talks - regional
 * Seminar: European Spallation Source, Lund, Sweden (2024)
 	* Machine learning for analysis of experimental scatterin and spectroscopy data in materials chemistry
 
-* Workshop: AI workshop between University of Copenhagen, Technical University of Denmark and European Spallation Source Data Management and Software Centre, Kongens Lyngby, Denmark (2024)
+* Workshop: AI workshop between UCPH, DTU and DMSC, Kongens Lyngby, Denmark (2024)
 	* Machine learning for analysis of experimental scatterin and spectroscopy data in materials chemistry
 
 * Seminar: DTU 	NanoLab, Copenhagen, Denmark (2023)
