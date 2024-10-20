@@ -88,7 +88,7 @@ Prizes
 
 Editor
 ======
-Guest editor of a npj Computational Materials collection titled ("Self-Driving Laboratories for Chemistry and Materials Science")[https://www.nature.com/collections/eiiadfbbhb/guest-editor].
+Guest editor of the npj Computational Materials collection titled ["Self-Driving Laboratories for Chemistry and Materials Science"](https://www.nature.com/collections/eiiadfbbhb/guest-editor).
 
 Review
 ======
