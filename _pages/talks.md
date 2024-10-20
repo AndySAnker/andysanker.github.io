@@ -35,6 +35,9 @@ Invited talks - international
 Invited talks - regional
 ======
 
+* Danscatt Annual Meeting, Århus, Denmark (2024)
+	* PhD Award Talk
+
 * Seminar: European Spallation Source, Lund, Sweden (2024)
 	* Machine learning for analysis of experimental scatterin and spectroscopy data in materials chemistry
 
@@ -54,8 +57,11 @@ Invited talks - regional
 Talks
 ======
 
-* Danscatt Annual Meeting (2024)
-	* PhD Award Talk
+* Accelerate24, Vancouver, Canada (2024)
+	* A modular robotic system for autonomous nanomaterial synthesis
+
+* EPDIC18, Padova, Italy (2024)
+	* Machine learning for analysis of pair distribution function data
 
 * SMART Meeting, DTU (2023)
 	* Machine helping the Chemist - Towards Automated Modelling of Pair Distribution Function Data

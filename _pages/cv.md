@@ -22,6 +22,7 @@ Education
 
 Work experience
 ======
+* 2024 - : Fulford Junior Research Fellow - [Somerville College](https://www.some.ox.ac.uk/), Oxford
 * 2024 - : Visiting researcher - [Prof. Deringer](https://www.chem.ox.ac.uk/people/volker-deringer), Department of Chemistry, University of Oxford
   * Mentor: [Volker L. Deringer (Associate Professor)](https://scholar.google.com/citations?user=LmnbxvQAAAAJ&hl=de)
 * 2023 - : Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
@@ -52,11 +53,11 @@ Work experience
 
 Funding
 ======
-* 700 pounds AI in Chemistry 2023 Bursary
 * 4.000.000 DKK Postdoctoral Fellowship from Novo Nordisk Foundation
 * 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) to visit the Scientific Machine Learning Group, England and develop artificial intelligence methods to analyse scattering data within materials chemistry
 * 20.000 DKK Research Grant from the Siemens Foundation
 * 15.000 DKK Travel Grant from DDSA to attent NeurIPS 2022 & the AI4MAT workshop and present 1 among 2 accepted papers
+* 700 pounds AI in Chemistry 2023 Bursary
 * Travel Funding – The Danish Chemical Society
 
 Prizes 
@@ -84,6 +85,10 @@ Prizes
 
 [Supervision & Teaching](https://andySAnker.github.io/teaching/)
 ======
+
+Editor
+======
+Guest editor of a npj Computational Materials collection titled ("Self-Driving Laboratories for Chemistry and Materials Science")[https://www.nature.com/collections/eiiadfbbhb/guest-editor].
 
 Review
 ======
