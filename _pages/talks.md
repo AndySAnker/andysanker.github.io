@@ -35,6 +35,12 @@ Invited talks - international
 Invited talks - regional
 ======
 
+* AI in CHEM Seminar Series, Aalto University, Finland (2025)
+	* Machine learning experimental scattering data analysis: concept, practice, and 		a future with automated laboratories
+
+* Physical Chemistry Seminar, University of Graz, Austria (2024)
+	* Machine learning for analysis of experimental scattering data
+
 * Danscatt Annual Meeting, Århus, Denmark (2024)
 	* PhD Award Talk
 
@@ -54,7 +60,7 @@ Invited talks - regional
 	* Using Generative Adversarial Networks to match experimental and simulated inelastic neutron scattering data
 
 
-Talks
+Other talks
 ======
 
 * Accelerate24, Vancouver, Canada (2024)
