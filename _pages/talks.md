@@ -36,7 +36,7 @@ Invited talks - regional
 ======
 
 * AI in CHEM Seminar Series, Aalto University, Finland (2025)
-	* Machine learning experimental scattering data analysis: concept, practice, and 		a future with automated laboratories
+	* Machine learning for experimental scattering data analysis: concept, practice, 	 and a future with automated laboratories
 
 * Physical Chemistry Seminar, University of Graz, Austria (2024)
 	* Machine learning for analysis of experimental scattering data
