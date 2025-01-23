@@ -41,6 +41,9 @@ Invited talks - regional
 * Physical Chemistry Seminar, University of Graz, Austria (2024)
 	* Machine learning for analysis of experimental scattering data
 
+* Faraday Masterclass, The Faraday Institution, United Kingdom (2024)
+	* Machine learning/AI analysis methods for scattering/spectroscopy data
+
 * Danscatt Annual Meeting, Århus, Denmark (2024)
 	* PhD Award Talk
 
