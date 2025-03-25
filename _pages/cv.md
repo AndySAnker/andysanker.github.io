@@ -25,6 +25,7 @@ Work experience
 * 2024 - : Fulford Junior Research Fellow - [Somerville College](https://www.some.ox.ac.uk/), Oxford
 * 2024 - : Visiting researcher - [Prof. Deringer](https://www.chem.ox.ac.uk/people/volker-deringer), Department of Chemistry, University of Oxford
   * Mentor: [Volker L. Deringer (Associate Professor)](https://scholar.google.com/citations?user=LmnbxvQAAAAJ&hl=de)
+* 2024 - : Independent Contractor, [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/)
 * 2023 - : Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
   * Mentor: [Tejs Vegge (Professor)](https://orbit.dtu.dk/en/persons/tejs-vegge)
 * 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
@@ -53,6 +54,7 @@ Work experience
 
 Funding
 ======
+* 150.000 DKK DTU Discovery Grant
 * 4.000.000 DKK Postdoctoral Fellowship from Novo Nordisk Foundation
 * 109.000 DKK Travel Grants in total from (Augustinus Foundation, the Fabrikant Vilhelm Pedersen og hustrus Foundation, the Haynmann Foundation, the Henry og Mary Skovs Foundation, the Knud Højgaard Foundation, the Thomas B. Thriges Foundation and the Viet Jacobsen Foundation) to visit the Scientific Machine Learning Group, England and develop artificial intelligence methods to analyse scattering data within materials chemistry
 * 20.000 DKK Research Grant from the Siemens Foundation
@@ -62,6 +64,7 @@ Funding
 
 Prizes 
 ======
+* [Inflection award (The 30 top PhDs globally working on solutions to climate change)](https://inflectionaward.com/) 2025
 * [Danscatt PhD award](https://danscatt.dk/danscatt-annual-meeting-2024/) 2024
 * [Forbes 30 Under 30 Europe list for Science and Healthcare](https://www.forbes.com/30-under-30/2024/europe/science-healthcare?profile=andy-sode-anker) 2024
 * [Nordic AI 2023 - AI-Generated Art Challenge: Nordic Landscapes](../files/AndySAnker_Depict_a_tranquil_morning_in_Copenhagen_as_the_city__5ea71928-87d7-4573-82e9-df67575a646b.png)
@@ -93,7 +96,7 @@ Guest editor of the npj Computational Materials collection titled ["Self-Driving
 Review
 ======
 * ACS Reviewer Lab Course (2022)
-* Reviewed 20 papers for: 4 for the AI4PS workshop at NeurIPS (2022) and 3 in 2023, 2 for the AI4Mat workshop at NeurIPS (2023), 4 for the AI4Science workshop at ICML in 2024, and 7 papers for npj Computational Materials.
+* Reviewed 20+ papers for: AI4PS workshop at NeurIPS (2022+2023), AI4Mat workshop at NeurIPS (2023), AI4Science workshop at ICML in 2024, Digital Discovery, and 7 npj Computational Materials.
 
 Beamtime
 ======
