@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](../files/CurriculumVitae.pdf)
+[Concise CV](../files/CurriculumVitae.pdf)
 ======
 
 Education
@@ -25,9 +25,9 @@ Work experience
 * 2024 - : Fulford Junior Research Fellow - [Somerville College](https://www.some.ox.ac.uk/), Oxford
 * 2024 - : Visiting researcher - [Prof. Deringer](https://www.chem.ox.ac.uk/people/volker-deringer), Department of Chemistry, University of Oxford
   * Mentor: [Volker L. Deringer (Associate Professor)](https://scholar.google.com/citations?user=LmnbxvQAAAAJ&hl=de)
-* 2024 - : Independent Contractor, [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/)
 * 2023 - : Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
   * Mentor: [Tejs Vegge (Professor)](https://orbit.dtu.dk/en/persons/tejs-vegge)
+* 2024: Independent Contractor, [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/)
 * 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research, scientific communication and supervision
     * Creating and maintaining software pibelines - Co-responsible for maintaining computer resource
@@ -64,7 +64,7 @@ Funding
 
 Prizes 
 ======
-* [Inflection award (The 30 top PhDs globally working on solutions to climate change)](https://inflectionaward.com/) 2025
+* [Inflection award](https://inflectionaward.com/) (The 30 top PhDs globally working on solutions to climate change) 2025
 * [Danscatt PhD award](https://danscatt.dk/danscatt-annual-meeting-2024/) 2024
 * [Forbes 30 Under 30 Europe list for Science and Healthcare](https://www.forbes.com/30-under-30/2024/europe/science-healthcare?profile=andy-sode-anker) 2024
 * [Nordic AI 2023 - AI-Generated Art Challenge: Nordic Landscapes](../files/AndySAnker_Depict_a_tranquil_morning_in_Copenhagen_as_the_city__5ea71928-87d7-4573-82e9-df67575a646b.png)
