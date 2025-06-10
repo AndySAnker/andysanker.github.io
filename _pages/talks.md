@@ -35,6 +35,12 @@ Invited talks - international
 Invited talks - regional
 ======
 
+* Seminar, Danish Technological Institute, Denmark (2025)
+	* Autonomous nanomaterial synthesis by design
+
+* DanMAX Celebration, University of Southern Denmark, Denmark (2025)
+	* Autonomous nanomaterial synthesis by design
+
 * AI in CHEM Seminar Series, Aalto University, Finland (2025)
 	* Machine learning for experimental scattering data analysis: concept, practice, 	 and a future with automated laboratories
 

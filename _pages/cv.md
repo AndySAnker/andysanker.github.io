@@ -27,7 +27,7 @@ Work experience
   * Mentor: [Volker L. Deringer (Associate Professor)](https://scholar.google.com/citations?user=LmnbxvQAAAAJ&hl=de)
 * 2023 - : Postdoc - [CAPeX](https://capex.dtu.dk/), Department of Energy, Technical University of Denmark
   * Mentor: [Tejs Vegge (Professor)](https://orbit.dtu.dk/en/persons/tejs-vegge)
-* 2024: Independent Contractor, [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/)
+* 2024 + 2025: Independent Contractor, [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/)
 * 2023: Postdoc - [Nanostructure Group UPCH](https://nanostructure-cph.com/), Department of Chemistry, University of Copenhagen
     * Research, scientific communication and supervision
     * Creating and maintaining software pibelines - Co-responsible for maintaining computer resource
@@ -107,9 +107,9 @@ Outreach
 * One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitter.com/RealSci_Nano) including an [outreach video](https://youtu.be/PywCje9_YF4), 2022
 * Paper in the danish popular science journal - [Aktuel Naturvidenskab](https://aktuelnaturvidenskab.dk/fileadmin/Aktuel_Naturvidenskab/nr-1/AN1-2021-materialeudvikling.pdf">Aktuel)
 * Paper in the danish popular science journal - [Ingeniøren](https://ing.dk/holdning/fagligt-talt-selvkoerende-ai-laboratorier-skal-drive-fremtidens-materialeforskning)
+* Featured by [MAX IV](https://www.maxiv.lu.se/article/inventive-ai-and-robotic-self-driving-lab-accelerates-material-discoveries/), Somerville, [University of Oxford](https://www.chem.ox.ac.uk/article/andy-sode-anker-selected-among-30-best-young-scientists-in-the-world-working-on-climate-chan), [DTU](https://www.dtu.dk/newsarchive/2024/04/andy-sode-anker-i-forbes-30-under-30)
 
-
-Skills
+Skills - outdated
 ======
 * High Performance Computing  * GPU-accelerated Computing * Cloud Computing * Oracle Cloud
 * [App development](https://huggingface.co/AndySAnker)
