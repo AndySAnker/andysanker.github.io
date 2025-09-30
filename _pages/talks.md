@@ -32,7 +32,7 @@ Invited talks - international
 * Conference: World Young Science Summit 2025, Wenzhou, China (2025)
 	* Autonomous discovery of inorganic nanomaterials: integrating robotic synthesis, X-ray scattering, and ML
 
-* Conference: WWYS – Machine learning for Science, Wenzhou, China (2025)
+* Conference: WYSS – Machine learning for Science, Wenzhou, China (2025)
 	* Autonomous discovery of inorganic nanomaterials: integrating robotic synthesis, X-ray scattering, and ML
 
 * Conference: Chemical Compound Space Conference, Heidelberg, Germany (2024)
