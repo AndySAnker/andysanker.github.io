@@ -101,13 +101,14 @@ Review
 Beamtime
 ======
 * 20+ scattering and spectroscopy experiments (PDF, SAXS, XRD and INS) conducted at international synchrotron facilities (MAX IV, DESY, ESRF, Soleil, ILL and APS)
+* Member of the MAX IV Programme Advisory Committee from 2026
 
 Outreach
 ======
 * One week Twitter takeover of the outreach account [@RealSci_Nano](https://twitter.com/RealSci_Nano) including an [outreach video](https://youtu.be/PywCje9_YF4), 2022
 * Paper in the danish popular science journal - [Aktuel Naturvidenskab](https://aktuelnaturvidenskab.dk/fileadmin/Aktuel_Naturvidenskab/nr-1/AN1-2021-materialeudvikling.pdf">Aktuel)
 * Paper in the danish popular science journal - [Ingeniøren](https://ing.dk/holdning/fagligt-talt-selvkoerende-ai-laboratorier-skal-drive-fremtidens-materialeforskning)
-* Featured by [MAX IV](https://www.maxiv.lu.se/article/inventive-ai-and-robotic-self-driving-lab-accelerates-material-discoveries/), Somerville, [University of Oxford](https://www.chem.ox.ac.uk/article/andy-sode-anker-selected-among-30-best-young-scientists-in-the-world-working-on-climate-chan), [DTU](https://www.dtu.dk/newsarchive/2024/04/andy-sode-anker-i-forbes-30-under-30)
+* Featured by [MAX IV](https://www.maxiv.lu.se/article/inventive-ai-and-robotic-self-driving-lab-accelerates-material-discoveries/), [Somerville College](https://issuu.com/somervillecollege/docs/somerville_magazine_2025), [University of Oxford](https://www.chem.ox.ac.uk/article/andy-sode-anker-selected-among-30-best-young-scientists-in-the-world-working-on-climate-chan), [DTU](https://www.dtu.dk/newsarchive/2024/04/andy-sode-anker-i-forbes-30-under-30)
 
 Skills - outdated
 ======

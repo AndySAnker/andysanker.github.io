@@ -14,6 +14,9 @@ redirect_from:
 Keynote talk
 ======
 
+* CAPeX Summer Academy: Self-driving laboratories, Kgs. Lyngby, Denmark (2025)
+	* Self-driving laboratories
+
 * Conference: Machine 	Learning 	Conference for X-Ray and Neutron-Based Experiments, Garching, Germany (2024)
 	* Generative machine learning for scattering and spectroscopy data analysis
 	
@@ -25,6 +28,12 @@ Invited panel discussions
 
 Invited talks - international
 ======
+
+* Conference: World Young Science Summit 2025, Wenzhou, China (2025)
+	* Towards autonomous discovery of inorganic nanomaterials: integrating robotic synthesis, scattering, and machine learning
+
+* Conference: WWYS – Machine learning for Science, Wenzhou, China (2025)
+	* Towards autonomous discovery of inorganic nanomaterials: integrating robotic synthesis, scattering, and machine learning
 
 * Conference: Chemical Compound Space Conference, Heidelberg, Germany (2024)
 	* Machine learning for analysis of experimental scattering data in materials chemistry
