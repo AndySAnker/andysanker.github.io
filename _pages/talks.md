@@ -15,7 +15,7 @@ Keynote talk
 ======
 
 * CAPeX Summer Academy: Self-driving laboratories, Kgs. Lyngby, Denmark (2025)
-	* Self-driving laboratories
+	* Autonomous discovery of inorganic nanomaterials: integrating robotic synthesis, scattering, and machine learning
 
 * Conference: Machine 	Learning 	Conference for X-Ray and Neutron-Based Experiments, Garching, Germany (2024)
 	* Generative machine learning for scattering and spectroscopy data analysis
